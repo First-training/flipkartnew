@@ -1,4 +1,0 @@
-today
-tomorow
-day after
-
