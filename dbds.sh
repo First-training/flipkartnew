@@ -1,4 +1,5 @@
+just now
 today
-tomorow
+iomorow
 day after
 
